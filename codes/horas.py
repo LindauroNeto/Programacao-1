@@ -10,4 +10,7 @@ tempo_total = hour_mins + dura
 rst_hrs = round(tempo_total // 60)
 rst_min = round(tempo_total % 60)
 
+if rst_hrs >= 24:
+    rst_hrs -= 24
+
 print(rst_hrs, ":", rst_min)
