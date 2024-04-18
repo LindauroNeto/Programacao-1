@@ -1,2 +1,2 @@
-# 1.° Programção em Python
-Minha primeira programação em Python, ainda testando e aprendendo sobre a linguagem.
+# 1.° Programações em Python
+Minhas primeiras programações em Python, testando e aprendendo sobre a linguagem.
