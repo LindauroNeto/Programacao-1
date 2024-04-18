@@ -24,6 +24,6 @@ def somaMedia(a, b, c, d):
     print((a + b + c + d) / 4)
 
 nota = []
-nota = [float(input("Digite a sua nota: ")) for i in range(4)]
+nota = [float(input("Digite a sua nota do ciclo: ")) for i in range(4)]
 
 somaMedia(nota[0], nota[1], nota[2], nota[3])
